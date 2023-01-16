@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego.murillo\\Desktop\\Programming\\CursoDeFundamentosDeEntityFramework\\CursoDeFundamentosDeEntityFramework.csproj": {}
+    "C:\\Users\\diegomurillo\\Desktop\\Platzi\\curso-de-fundamentos-de-entity-framework\\CursoDeFundamentosDeEntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego.murillo\\Desktop\\Programming\\CursoDeFundamentosDeEntityFramework\\CursoDeFundamentosDeEntityFramework.csproj": {
+    "C:\\Users\\diegomurillo\\Desktop\\Platzi\\curso-de-fundamentos-de-entity-framework\\CursoDeFundamentosDeEntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego.murillo\\Desktop\\Programming\\CursoDeFundamentosDeEntityFramework\\CursoDeFundamentosDeEntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\diegomurillo\\Desktop\\Platzi\\curso-de-fundamentos-de-entity-framework\\CursoDeFundamentosDeEntityFramework.csproj",
         "projectName": "CursoDeFundamentosDeEntityFramework",
-        "projectPath": "C:\\Users\\diego.murillo\\Desktop\\Programming\\CursoDeFundamentosDeEntityFramework\\CursoDeFundamentosDeEntityFramework.csproj",
-        "packagesPath": "C:\\Users\\diego.murillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego.murillo\\Desktop\\Programming\\CursoDeFundamentosDeEntityFramework\\obj\\",
+        "projectPath": "C:\\Users\\diegomurillo\\Desktop\\Platzi\\curso-de-fundamentos-de-entity-framework\\CursoDeFundamentosDeEntityFramework.csproj",
+        "packagesPath": "C:\\Users\\diegomurillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diegomurillo\\Desktop\\Platzi\\curso-de-fundamentos-de-entity-framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diego.murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\diegomurillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
